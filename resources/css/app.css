@@ -1,0 +1,13 @@
+.btn-primary{
+    background-color: #008374 !important;
+}
+
+.error-message {
+    display: none;
+    color: red;
+    margin-top: 5px;
+}
+
+.error {
+    display: block;
+}
